@@ -10,4 +10,4 @@ Download the .sql file in this repository and import it on your SQL server or ph
 
 ### Something messed up?
 
-Having trouble with installing this project on your server or system? [Contact me here](sumitk11@hotmail.com) and I’ll help you sort it out.
+Having trouble with installing this project on your server or system? [Contact me here](mailto:sumitk11@hotmail.com) and I’ll help you sort it out.
